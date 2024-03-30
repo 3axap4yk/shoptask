@@ -1,4 +1,4 @@
-package comtroller
+package controller
 
 class ProductController {
 }
